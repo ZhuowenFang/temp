@@ -1,0 +1,9 @@
+{
+    "bundleVersion": "2.026",
+    "patchVersion": "0",
+    "platform": "WebGL",
+    "patchUrl": "https://unity-patch.s3.ap-southeast-1.amazonaws.com/Development/ycw",
+    "forceUpdate": false,
+    "announcementVersion": 0,
+    "announcement": []
+}

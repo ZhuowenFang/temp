@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665188732648",
+    "project_id": "supernova-yt01",
+    "storage_bucket": "supernova-yt01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665188732648:android:3d2a5eae374eaa235dc35d",
+        "android_client_info": {
+          "package_name": "com.gameplus.teaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665188732648-6vhggm90qdd6qh1eghcc1941idvtuaid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHvrdzQ6TVjEetAu4HgHaijB-vRuKm3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665188732648-6vhggm90qdd6qh1eghcc1941idvtuaid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
